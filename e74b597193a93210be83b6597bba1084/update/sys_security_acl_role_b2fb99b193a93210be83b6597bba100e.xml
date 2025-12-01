@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 23:46:34</sys_created_on>
+        <sys_id>b2fb99b193a93210be83b6597bba100e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1800231_event_0_event_traker.x_1800231_event_0.admin</sys_name>
+        <sys_package display_value="event-traker" source="x_1800231_event_0">e74b597193a93210be83b6597bba1084</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="event-traker">e74b597193a93210be83b6597bba1084</sys_scope>
+        <sys_security_acl display_value="x_1800231_event_0_event_traker">32fb99b193a93210be83b6597bba100b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b2fb99b193a93210be83b6597bba100e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 23:46:34</sys_updated_on>
+        <sys_user_role display_value="x_1800231_event_0.admin" name="x_1800231_event_0.admin">af4b597193a93210be83b6597bba10a6</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
