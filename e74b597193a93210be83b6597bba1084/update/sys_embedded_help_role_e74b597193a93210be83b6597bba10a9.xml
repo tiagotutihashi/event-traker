@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1800231_event_0.admin" name="x_1800231_event_0.admin">af4b597193a93210be83b6597bba10a6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-01 23:43:36</sys_created_on>
+        <sys_id>e74b597193a93210be83b6597bba10a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>af4b597193a93210be83b6597bba10a6</sys_name>
+        <sys_package display_value="event-traker" source="x_1800231_event_0">e74b597193a93210be83b6597bba1084</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="event-traker">e74b597193a93210be83b6597bba1084</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e74b597193a93210be83b6597bba10a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-01 23:43:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
